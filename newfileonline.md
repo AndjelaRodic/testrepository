@@ -1,3 +1,4 @@
 # Heading 1
 
-Neki tekst...
+Neki tekst?
+Neki novi tekst.
